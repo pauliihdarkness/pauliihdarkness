@@ -19,4 +19,4 @@ Me gusta crear interfaces simples, intuitivas y con un toque de personalidad.
 
 ---
 
-> “El diseño no es solo cómo se ve, sino cómo se siente al usarlo.”  
+> “El diseño no es solo cómo se ve, sino cómo se siente al usarlo.” 
