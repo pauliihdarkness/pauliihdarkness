@@ -1,16 +1,24 @@
-## Hi there 👋
+# ✨ Hola, soy Paula — @pauliihdarkness
 
-<!--
-**pauliihdarkness/pauliihdarkness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora **Front-End**, apasionada por el diseño web, la estética digital y las experiencias interactivas.  
+Me gusta crear interfaces simples, intuitivas y con un toque de personalidad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologías y herramientas
+- HTML / CSS / JavaScript  
+- React / Vite  
+- Git / GitHub / Netlify  
+- Figma / Canva / Photoshop  
+
+---
+
+### 🌱 Actualmente
+- Explorando nuevas formas de unir **código + creatividad**  
+- Trabajando en proyectos personales con estética **retro / Y2K**
+
+---
+
+> “El diseño no es solo cómo se ve, sino cómo se siente al usarlo.”  
+
+
