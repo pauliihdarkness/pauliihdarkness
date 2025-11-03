@@ -1,4 +1,4 @@
-# ✨ Hola, soy Paula — @pauliihdarkness
+# ✨ Hola, soy Paula
 
 Soy desarrolladora **Front-End**, apasionada por el diseño web, la estética digital y las experiencias interactivas.  
 Me gusta crear interfaces simples, intuitivas y con un toque de personalidad.
