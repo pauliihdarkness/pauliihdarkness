@@ -1,15 +1,26 @@
 <div align="center">
 
 # ✨ Hola, soy Paula
-### `@pauliihdarkness`
+### @pauliihdarkness
 
-![Profile Views](https://komarev.com/ghpvc/?username=pauliihdarkness&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=pauliihdarkness&color=ff69b4&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/pauliihdarkness?style=social)](https://github.com/pauliihdarkness)
 
-**Desarrolladora Front-End** apasionada por el diseño web, la estética digital y las experiencias interactivas.  
-*Creando interfaces simples, intuitivas y con un toque de personalidad.*
+**Desarrolladora Front-End** enfocada en crear interfaces que se vean bien y se sientan mejor al usarlas.  
+Combino **código + diseño** para construir experiencias web con identidad propia.
+
+🌐 Portfolio: [pauladarkness.vercel.app](https://pauladarkness.vercel.app/)
 
 </div>
+
+---
+
+## 💫 Sobre mí
+
+- 🎯 Enfoque: UI/UX visualmente cuidadas, accesibles y funcionales.
+- 🧠 Intereses: diseño interactivo, animaciones web y estética digital retro/Y2K.
+- 🚀 Objetivo: crecer como Front-End Developer con proyectos reales y colaborativos.
+- ☕ Modo de trabajo: detalle, consistencia y aprendizaje continuo.
 
 ---
 
@@ -38,25 +49,57 @@
 
 ---
 
-## 🌱 Actualmente
+## 🌱 En qué estoy ahora
 
 ```javascript
 const paula = {
-    focus: "código + creatividad",
-    working_on: ["proyectos personales", "estética retro/Y2K"],
-    learning: ["nuevas tendencias en diseño web", "animaciones interactivas"],
-    vibe: "✨ aesthetic & functional ✨"
+    focus: "interfaces claras con personalidad",
+    building: ["proyectos front-end personales", "componentes reutilizables en React"],
+    learning: ["mejores prácticas de UI/UX", "animaciones y microinteracciones"],
+    vibe: "aesthetic + funcional"
 };
 ```
 
-<div align="center">
+---
 
-### 🎨 Explorando
-🔮 Nuevas formas de unir **código + creatividad**  
-💜 Proyectos con estética **retro / Y2K**  
-🌸 Experiencias de usuario memorables
+## 🚀 Proyectos destacados
 
-</div>
+### 1) FlowBar
+Sistema de gestión para bares y restaurantes con pedidos en tiempo real, comandas digitales y panel administrativo.
+
+- Stack: React 19, Firebase, Tailwind CSS 4, Framer Motion
+- Código: [github.com/pauliihdarkness/flow-bar](https://github.com/pauliihdarkness/flow-bar)
+- Demo: [flow-bar.vercel.app](https://flow-bar.vercel.app/)
+
+### 2) App de Citas Demo
+Aplicación inspirada en apps de citas para explorar UI interactiva, formularios dinámicos y transiciones suaves.
+
+- Stack: React, CSS Modules, Vite, Node.js, Express, Firebase
+- Código: [github.com/pauliihdarkness/app-clon-app-de-citas](https://github.com/pauliihdarkness/app-clon-app-de-citas)
+- Demo: [appdidactica-web.vercel.app](https://appdidactica-web.vercel.app/)
+
+### 3) e-commerce-Whatsapp
+Marketplace con interfaz inspirada en WhatsApp para cotizaciones, confirmación de pedidos y atención en tiempo real.
+
+- Stack: React, WhatsApp API, Node.js, Express, Firebase
+- Código: [github.com/pauliihdarkness/e-commerce-whatsapp](https://github.com/pauliihdarkness/e-commerce-whatsapp)
+- Demo: no pública
+
+### 4) cafecitoApp-clone
+Clon de CafecitoApp con flujo de suscripción, gestión de productos y experiencia orientada a creadores de contenido.
+
+- Stack: React, Node.js, Express, Stripe, MongoDB
+- Código: [github.com/pauliihdarkness/cafecitoApp-clone](https://github.com/pauliihdarkness/cafecitoApp-clone)
+- Demo: [cafetoxic.netlify.app](https://cafetoxic.netlify.app/)
+
+---
+
+## 🗺️ Roadmap 2026
+
+- [ ] Publicar más proyectos front-end con README completo y demo.
+- [ ] Profundizar en accesibilidad web (a11y) y performance.
+- [ ] Mejorar arquitectura de componentes en React.
+- [ ] Contribuir a proyectos open source.
 
 ---
 
@@ -72,20 +115,23 @@ const paula = {
 
 ---
 
+## 💭 Filosofía
+
+> El diseño no es solo como se ve, sino como se siente cuando alguien lo usa.
+
+---
+
+## 🔗 Conecta conmigo
+
 <div align="center">
 
-### 💭 Filosofía
-
-> *"El diseño no es solo cómo se ve, sino cómo se siente al usarlo."*
-
----
-
-### 🔗 Conecta conmigo
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar%20sitio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://pauladarkness.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-@pauliihdarkness-181717?style=for-the-badge&logo=github)](https://github.com/pauliihdarkness)
 
+</div>
+
 ---
 
-<sub>✨ Hecho con 💜 y mucho café ☕</sub>
-
+<div align="center">
+<sub>Hecho con creatividad, codigo y mucho cafe.</sub>
 </div>
