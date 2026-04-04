@@ -107,9 +107,9 @@ Clon de CafecitoApp con flujo de suscripción, gestión de productos y experienc
 
 <div align="center">
 
-![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauliihdarkness&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=E0AAFF&text_color=C9D1D9)
+![Paula's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pauliihdarkness&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=E0AAFF&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pauliihdarkness&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauliihdarkness&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9)
 
 </div>
 
